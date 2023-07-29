@@ -6,7 +6,7 @@
 
 ## Link to play the game here
 
-[]()
+[Link](https://eunjistewart.github.io/rock-paper-scissors/)
 
 ---
 
@@ -29,7 +29,7 @@
 ## Getting Started
 
 1.  Go to the game link
-    []()
+    [Link](https://eunjistewart.github.io/rock-paper-scissors/)
 2.  Start playing the game by selecting a move, rock, paper, or scissors!
 3.  If the computer picked a move that is higher in the order of rules, the computer wins, vice versa.
 4.  Rules - rock beats scissors, scissors beat paper, and paper beats rock.
