@@ -12,8 +12,9 @@
 
 ## Screen Shots (images)
 
-[screenshot1](./images/screenshot-game1.png)
-[screenshot2](./images/screenshot-game2.png)
+./images/screenshot-game1.png
+
+./images/screenshot-game2.png
 
 ---
 
