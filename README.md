@@ -12,9 +12,9 @@
 
 ## Screen Shots (images)
 
-<img src="./images/screenshot-game1.png" alt="rock paper scissors game" height="550" width="450" display="inline-block"/>
+<img src="./images/screenshot-game1.png" alt="rock paper scissors game" width="450" display="inline-block"/>
 
-<img src="./images/screenshot-game2.png" alt="rock paper scissors game" height="550" width="450" display="inline-block"/>
+<img src="./images/screenshot-game2.png" alt="rock paper scissors game" width="450" display="inline-block"/>
 
 ---
 
