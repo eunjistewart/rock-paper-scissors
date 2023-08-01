@@ -16,6 +16,9 @@
 
 <img src="./images/screenshot-game2.png" alt="rock paper scissors game" width="450" display="inline-block"/>
 
+Added NEW Auto Play Feature 
+<img src="./images/screenshot-game3.png" alt="rock paper scissors game" width="450" display="inline-block"/>
+
 ---
 
 ## Technologies Used
@@ -34,6 +37,8 @@
 3.  If the computer picked a move that is higher in the order of rules, the computer wins, vice versa.
 4.  Rules - rock beats scissors, scissors beat paper, and paper beats rock.
 5.  Click the button that says 'Reset Score' when you want to reset the scores to 0s and start the game fresh!
+6.  Click the 'Auto Play' button to have the computer play against itself!
+7.  Click the 'Auto Play' button again to stop/ clear the auto-playing interval!
 
 ---
 
